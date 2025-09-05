@@ -1,0 +1,23 @@
+﻿# Maven / Java
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.log
+*.class
+*.iml
+*.jar
+
+# IDEs
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pastas locais suas
+bans_in/
+bans_out/
+csv/
