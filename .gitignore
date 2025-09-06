@@ -21,3 +21,6 @@ Thumbs.db
 bans_in/
 bans_out/
 csv/
+
+# permitir jars vendorizados para o Render
+!lib/*.jar
